@@ -37,7 +37,7 @@ body {
 .menu {
     background-color: rgb(47, 57, 79);
     width: 60px;
-    height: auto;
+    height: 100vh;
     padding: 20px;
     overflow: hidden;
     transition: 0.7s;
