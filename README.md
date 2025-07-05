@@ -1,27 +1,76 @@
-# 👋 Hey there! I'm Eyad Abduljalil
+<h1 align="center">Hi there 👋, I'm Eyad Abduljalil</h1>
 
-## 💻 About Me
-I'm a passionate developer who loves building creative and impactful digital experiences. Whether it's a sleek portfolio website or a smart AI chatbot — I love turning ideas into reality!
+<p align="center">
+  <b>🎓 Business Information Systems Student | 🌐 Junior Full Stack Developer | 🌱 Open to Internships & Remote Work</b>
+</p>
 
-- 🎨 Creative coder
-- 🚀 Always learning new tech
-- 🌍 Based in [Your Country or City]
-- 📫 Reach me: [your-email@example.com] or on [LinkedIn](https://linkedin.com/in/your-profile)
-
-## 🔧 Tools & Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
-## 📂 Featured Projects
-- [🎨 Criativo Projects](https://github.com/EyadAbduljalil/portfolio) — A clean, creative portfolio design.
-- [💡 Add more projects here!]
-
-## 📈 GitHub Stats
-![Eyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=EyadAbduljalil&show_icons=true&theme=radical)
+<p align="center">
+  <a href="mailto:eyadabdujalil1@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/eyad-abduljalil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/EyadAbduljalil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 👨‍💻 About Me
+
+- 🎓 Studying **Business Information Systems (BIS)** at Nile Academy, Egypt — *Expected Graduation: 2026*  
+- 💻 Passionate about creating intuitive, full-stack applications  
+- 🌍 Based in Taiz, Yemen / Giza, Egypt  
+- 📌 Actively seeking **internships** or **junior developer** roles starting **February 2026**
+
+---
+
+### 🛠️ Skills
+
+#### Front-End
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `JavaScript` `TypeScript` `React`
+
+#### Back-End
+`Flask` `SQLAlchemy` `Node.js (basics)` `Google Apps Script`
+
+#### Databases
+`SQLite` `JSON` *(Learning MongoDB)*
+
+#### Tools
+`Git & GitHub` `Figma` `Firebase` `Vercel`
+
+#### Other
+`UI/UX Design` `Agile Mindset` `CS50x` `ICDL`
+
+---
+
+### 📂 Projects
+
+#### 🔹 [StudyTrack – CS50 Final Project](http://bit.ly/4eykMBB)
+> A Flask-based task tracker for students. Includes user auth, dashboard, and task filtering.
+
+#### 🔹 Eyad Online Shop
+> A responsive front-end e-commerce interface using HTML, CSS, JS, and Apps Script for backend automation.
+
+---
+
+### 📜 Certifications
+
+- ✅ **CS50x**: Introduction to Computer Science – *Harvard*
+- ✅ Web Development (HTML, CSS, JS, TypeScript) – *Mahara-Tech*
+- ✅ ICDL – *Edraak*
+
+---
+
+### 🌐 Languages
+
+- **Arabic** – Native  
+- **English** – Intermediate (B1)
+
+---
+
+### 🤝 Let's Connect!
+
+📧 Email: eyadabdujalil1@gmail.com  
+📍 Location: Giza, Egypt / Taiz, Yemen  
+📌 Open to: Remote roles | Relocation | Collaboration
+
+---
+
+<p align="center">✨ I believe in clean code, great design, and continuous learning. Let’s build something amazing together!</p>
