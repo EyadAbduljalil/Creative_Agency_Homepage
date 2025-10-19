@@ -27,13 +27,13 @@
 `HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `JavaScript` `TypeScript` `React`
 
 #### Back-End
-`Flask` `SQLAlchemy` `Node.js (basics)` `Google Apps Script`
+ `Node.js` `Express`
 
 #### Databases
-`SQLite` `JSON` *(Learning MongoDB)*
+`MongoDB` `JSON` 
 
 #### Tools
-`Git & GitHub` `Figma` `Firebase` `Vercel`
+`Git & GitHub` `Firebase` `Vercel`
 
 #### Other
 `UI/UX Design` `Agile Mindset` `CS50x` `ICDL`
