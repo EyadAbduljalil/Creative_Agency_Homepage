@@ -44,6 +44,9 @@ The homepage is a comprehensive, single-page design featuring multiple distinct 
 
 ## 📂 Project Structure
 
+```
+/
 ├── index.html       (The main HTML document)
 ├── styles.css       (The main stylesheet)
-└── imagess/         (A directory for all project assets like .png and .jpg files, as referenced in the HTML and CSS)
+└── imagess/         (A directory for all project assets)
+```
