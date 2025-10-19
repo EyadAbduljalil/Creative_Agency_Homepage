@@ -24,7 +24,7 @@
 ### 🛠️ Skills
 
 #### Front-End
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `JavaScript` `TypeScript` `React`
+`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `JavaScript`
 
 #### Back-End
  `Node.js` `Express`
