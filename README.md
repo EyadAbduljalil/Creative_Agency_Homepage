@@ -1,76 +1,45 @@
-<h1 align="center">Hi there 👋, I'm Eyad Abduljalil</h1>
+# Criativo - Creative Agency Homepage
 
-<p align="center">
-  <b>🎓 Business Information Systems Student | 🌐 Junior Full Stack Developer | 🌱 Open to Internships & Remote Work</b>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-<p align="center">
-  <a href="mailto:eyadabdujalil1@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/eyad-abduljalil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/EyadAbduljalil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+This repository contains the source code for a static, multi-section homepage for a fictional creative agency named "Criativo". This project is a front-end exercise built purely with HTML5 and modern CSS3, demonstrating complex layout and styling techniques.
+
+The entire layout is orchestrated using a top-level **CSS Grid** (`.conteaner`), with **Flexbox** employed extensively for component-level alignment, such as in the navigation bar, hero content, and feature boxes.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Key Features
 
-- 🎓 Studying **Business Information Systems (BIS)** at Nile Academy, Egypt — *Expected Graduation: 2026*  
-- 💻 Passionate about creating intuitive, full-stack applications  
-- 🌍 Based in Taiz, Yemen / Giza, Egypt  
-- 📌 Actively seeking **internships** or **junior developer** roles starting **February 2026**
+The homepage is a comprehensive, single-page design featuring multiple distinct sections:
 
----
-
-### 🛠️ Skills
-
-#### Front-End
-`HTML5` `CSS3` `Tailwind CSS` `Bootstrap` `JavaScript`
-
-#### Back-End
- `Node.js` `Express`
-
-#### Databases
-`MongoDB` `JSON` 
-
-#### Tools
-`Git & GitHub` `Firebase` `Vercel`
-
-#### Other
-`UI/UX Design` `Agile Mindset` `CS50x` `ICDL`
+* **Header:** Sticky navigation bar with logo and menu links.
+* **Hero Section:** Main promotional content with a call-to-action.
+* **Services:** A 4-quadrant grid highlighting "What We Do".
+* **About Us:** A split-layout section with text and imagery.
+* **Statistics:** A full-width parallax-style section displaying key metrics (Projects Done, Happy Customers, etc.).
+* **Latest Projects:** A two-column layout showcasing recent case studies.
+* **Sponsors/Partners:** A logo bar for social proof.
+* **Team Showcase:** A card-based layout to "Meet Expert Team".
+* **Portfolio Gallery:** An extensive 3-column image grid for "Latest Work".
+* **Testimonials:** A section for client feedback with a background image.
+* **Blog/News:** A 3-card layout for "Our Latest News".
+* **Contact & Footer:** A "Get In Touch" contact form alongside a detailed footer with site links and social media icons.
 
 ---
 
-### 📂 Projects
+## 🛠️ Technical Breakdown
 
-#### 🔹 [StudyTrack – CS50 Final Project](http://bit.ly/4eykMBB)
-> A Flask-based task tracker for students. Includes user auth, dashboard, and task filtering.
-
-#### 🔹 Eyad Online Shop
-> A responsive front-end e-commerce interface using HTML, CSS, JS, and Apps Script for backend automation.
-
----
-
-### 📜 Certifications
-
-- ✅ **CS50x**: Introduction to Computer Science – *Harvard*
-- ✅ Web Development (HTML, CSS, JS, TypeScript) – *Mahara-Tech*
-- ✅ ICDL – *Edraak*
+* **HTML5:** All structure is built using semantic HTML.
+* **CSS3:** All styling, layout, and effects are handled by pure CSS.
+    * **CSS Grid:** The primary layout mechanism for the entire page's sections.
+    * **Flexbox:** Used internally within sections for fine-grained alignment of content.
+    * **Custom Properties:** (Not used, but a potential improvement).
+    * **Transitions:** Simple `hover` effects are used on cards and buttons for interactivity.
+    * **Background Images:** Multiple sections use `background-image` with effects like `background-attachment: fixed` to create visual depth.
 
 ---
 
-### 🌐 Languages
-
-- **Arabic** – Native  
-- **English** – Intermediate (B1)
-
----
-
-### 🤝 Let's Connect!
-
-📧 Email: eyadabdujalil1@gmail.com  
-📍 Location: Giza, Egypt / Taiz, Yemen  
-📌 Open to: Remote roles | Relocation | Collaboration
-
----
-
-<p align="center">✨ I believe in clean code, great design, and continuous learning. Let’s build something amazing together!</p>
+## 📂 Project Structure
